@@ -1,0 +1,15 @@
+# ignore ALL .log files
+*.log
+
+# ignore ALL .tmp files
+*.tmp
+ 
+# ignore ALL .env files 
+*.env
+ 
+# ignore node_modules
+node_modules/
+ 
+# ignore .md files but Readme.md
+*.md
+!README.md
